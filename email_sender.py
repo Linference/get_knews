@@ -7,6 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 from typing import List, Dict
 from config import (
+    EMAIL_ENABLED,
     EMAIL_SMTP_HOST, EMAIL_SMTP_PORT,
     EMAIL_SENDER, EMAIL_PASSWORD, EMAIL_RECEIVER,
 )
@@ -138,7 +139,11 @@ def build_html(sections_data: List[Dict], hour: int = 9, minute: int = 0) -> str
 
 
 def send_digest(sections_data: List[Dict], hour: int = 9, minute: int = 0):
-    """发送每日摘要邮件"""
+    """发送每日摘要邮件（未配置邮件则跳过）"""
+    if not EMAIL_ENABLED:
+        print("[邮件] 未配置 SMTP，跳过邮件发送")
+        return True
+
     html = build_html(sections_data, hour, minute)
 
     msg = MIMEMultipart("alternative")

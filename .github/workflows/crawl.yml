@@ -46,7 +46,7 @@ jobs:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
-        run: python main.py once-no-email
+        run: python main.py once
 
       - name: 📋 复制 feed.json 到 docs/ (供 Pages 访问)
         run: |

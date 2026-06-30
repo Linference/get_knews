@@ -1,10 +1,10 @@
 # 📡 Tech Digest — 多源科技资讯自动抓取 + DeepSeek AI 中文摘要
 
-[![Daily Tech Digest](https://github.com/actions/workflows/crawl.yml/badge.svg)](https://github.com/你的用户名/tech_digest/actions)
+[![Daily Tech Digest](https://github.com/Linference/get_knews/actions/workflows/crawl.yml/badge.svg)](https://github.com/Linference/get_knews/actions)
 
 每天自动抓取 **GitHub Trending / Hacker News / arXiv / Reddit** 等顶级科技社区的热门内容，调用 **DeepSeek API** 生成中文核心功能概括，通过 **GitHub Pages** 网页 + **邮件** 双通道推送。
 
-> 🔗 演示站点: `https://你的用户名.github.io/tech_digest`
+> 🔗 演示站点: `https://linference.github.io/get_knews`
 
 ---
 
@@ -34,13 +34,12 @@
 | Secret 名称 | 说明 | 必填 |
 |-------------|------|:---:|
 | `DEEPSEEK_API_KEY` | DeepSeek API 密钥 | ✅ 必填 |
-| `EMAIL_SMTP_HOST` | SMTP 服务器（如 `smtp.qq.com`） | 邮件用 |
-| `EMAIL_SMTP_PORT` | SMTP 端口（如 `587`） | 邮件用 |
-| `EMAIL_SENDER` | 发件邮箱 | 邮件用 |
-| `EMAIL_PASSWORD` | SMTP 授权码 | 邮件用 |
-| `EMAIL_RECEIVER` | 收件邮箱 | 邮件用 |
+| `EMAIL_SENDER` | 发件邮箱（自收自发时同收件邮箱） | 邮件用 |
+| `EMAIL_PASSWORD` | SMTP 授权码（不是邮箱密码！） | 邮件用 |
+| `EMAIL_RECEIVER` | 收件邮箱（自收自发时同发件邮箱） | 邮件用 |
 
 > 💡 **获取 DeepSeek API Key**: 访问 [platform.deepseek.com](https://platform.deepseek.com) 注册并获取。
+> 📧 邮件功能完全可选，不配也能正常运行（仅 GitHub Pages 展示）。
 
 ### 3. 启用 GitHub Pages
 
@@ -160,6 +159,30 @@ DEEPSEEK_MODEL = "deepseek-chat"      # V3 (快速)
 2. 实现 `fetch()` 方法，返回条目列表
 3. 在 `crawlers/__init__.py` 注册
 4. 在 `config.py` 的 `SOURCES` 中启用
+
+---
+
+## 📧 邮箱自收自发配置（QQ邮箱示例）
+
+想让爬虫结果每天发到自己邮箱？以 QQ 邮箱为例：
+
+### 1. 开启 SMTP 服务
+
+登录 QQ 邮箱 → **设置 → 账户 → POP3/SMTP 服务** → 开启 → 按提示发送短信验证。
+
+验证成功后会得到一个 **授权码**（一串字母），这就是 `EMAIL_PASSWORD`。
+
+### 2. 添加 Secrets
+
+在仓库 **Settings → Secrets and variables → Actions** 添加 3 个 Secret：
+
+| Name | Value |
+|------|-------|
+| `EMAIL_SENDER` | `你的QQ号@qq.com` |
+| `EMAIL_PASSWORD` | `授权码（不是QQ密码）` |
+| `EMAIL_RECEIVER` | `你的QQ号@qq.com`（同一个） |
+
+> 其他邮箱同理：163 用 `smtp.163.com`，Gmail 用 `smtp.gmail.com`，端口统一 `587`。
 
 ---
 

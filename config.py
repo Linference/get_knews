@@ -7,21 +7,29 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+def _env(key: str, default: str = "") -> str:
+    """读取环境变量，为空时回退到默认值（解决 GitHub Secrets 空值问题）"""
+    val = os.getenv(key)
+    return val if val else default
+
+
 # ============================================
 # DeepSeek API 配置
 # ============================================
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "your-deepseek-api-key")
+DEEPSEEK_API_KEY = _env("DEEPSEEK_API_KEY", "your-deepseek-api-key")
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEEPSEEK_MODEL = "deepseek-chat"  # 也可用 deepseek-reasoner (R1)
 
 # ============================================
-# 邮件配置 (SMTP)
+# 邮件配置 (SMTP) — 全部可选，不配则跳过发邮件
 # ============================================
-EMAIL_SMTP_HOST = os.getenv("EMAIL_SMTP_HOST", "smtp.qq.com")
-EMAIL_SMTP_PORT = int(os.getenv("EMAIL_SMTP_PORT", "587"))
-EMAIL_SENDER = os.getenv("EMAIL_SENDER", "your-email@qq.com")
-EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD", "your-smtp-auth-code")
-EMAIL_RECEIVER = os.getenv("EMAIL_RECEIVER", "receiver@example.com")
+EMAIL_ENABLED = bool(_env("EMAIL_SMTP_HOST") and _env("EMAIL_PASSWORD"))
+EMAIL_SMTP_HOST = _env("EMAIL_SMTP_HOST", "smtp.qq.com")
+EMAIL_SMTP_PORT = int(_env("EMAIL_SMTP_PORT") or "587")
+EMAIL_SENDER = _env("EMAIL_SENDER", "your-email@qq.com")
+EMAIL_PASSWORD = _env("EMAIL_PASSWORD", "")
+EMAIL_RECEIVER = _env("EMAIL_RECEIVER", "receiver@example.com")
 
 # ============================================
 # 爬取源开关
