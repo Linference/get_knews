@@ -79,6 +79,8 @@ jobs:
     steps:
       - name: ⬇️ Checkout (含最新数据)
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: 📦 构建 Pages 站点
         run: |
