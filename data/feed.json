@@ -1,5 +1,555 @@
 {
-  "updated_at": "2025-01-01T00:00:00",
-  "total": 0,
-  "items": []
+  "updated_at": "2026-06-30T13:16:29.495069",
+  "total": 30,
+  "items": [
+    {
+      "id": "hn-48730608",
+      "source": "hackernews",
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "description": "",
+      "summary": "美国大使要求比利时警方阻止记者报道，涉及外交干预新闻自由。",
+      "extra": {
+        "score": 226,
+        "by": "robtherobber",
+        "descendants": 73
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48730729",
+      "source": "hackernews",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "description": "",
+      "summary": "欧洲数字身份钱包依赖谷歌和苹果的安全服务，引发对技术垄断和隐私的担忧。",
+      "extra": {
+        "score": 348,
+        "by": "donohoe",
+        "descendants": 147
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48730818",
+      "source": "hackernews",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "description": "",
+      "summary": "在类型不严格的编程语言中实现“解析而非验证”的设计模式，提升代码安全性。",
+      "extra": {
+        "score": 51,
+        "by": "fagnerbrack",
+        "descendants": 27
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48704289",
+      "source": "hackernews",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "description": "",
+      "summary": "从零开始无硬件经验自制八旋翼无人机，展示开源硬件和自学实践。",
+      "extra": {
+        "score": 114,
+        "by": "noleary",
+        "descendants": 34
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48683098",
+      "source": "hackernews",
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "description": "",
+      "summary": "探讨开源技术如何支持低技术、可持续的解决方案，强调简单性和可维护性。",
+      "extra": {
+        "score": 374,
+        "by": "grep_it",
+        "descendants": 79
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48730904",
+      "source": "hackernews",
+      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "description": "",
+      "summary": "索尼从用户数字库中删除内容，提醒消费者数字购买不等于拥有所有权。",
+      "extra": {
+        "score": 150,
+        "by": "pseudolus",
+        "descendants": 55
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48730694",
+      "source": "hackernews",
+      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "description": "",
+      "summary": "2025年研究显示运动强度影响健康老年人身体成分，为运动处方提供依据。",
+      "extra": {
+        "score": 72,
+        "by": "bookofjoe",
+        "descendants": 63
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48721903",
+      "source": "hackernews",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "description": "",
+      "summary": "Qwen 3.6 27B模型在本地开发中达到性能与资源消耗的最佳平衡点，适合部署。",
+      "extra": {
+        "score": 1000,
+        "by": "stared",
+        "descendants": 650
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48730246",
+      "source": "hackernews",
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "description": "",
+      "summary": "Antares公司Mark-0反应堆达到临界状态，标志着小型模块化核能技术进展。",
+      "extra": {
+        "score": 49,
+        "by": "clarionbell",
+        "descendants": 38
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "hn-48724230",
+      "source": "hackernews",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "description": "",
+      "summary": ".self新顶级域名专为自托管设计，支持个人和家庭网络服务独立运行。",
+      "extra": {
+        "score": 559,
+        "by": "HumanCCF",
+        "descendants": 327
+      },
+      "fetched_at": "2026-06-30T13:16:29.245856"
+    },
+    {
+      "id": "arxiv-2606.30645v1",
+      "source": "arxiv",
+      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "url": "https://arxiv.org/abs/2606.30645v1",
+      "description": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes. Our pipeline leverages 3D Gaussian Splatting to r",
+      "summary": "通过合成交互数据在重建场景中学习人形机器人全身操作，连接自我中心视觉与任务指令",
+      "extra": {
+        "authors": [
+          "Yen-Jen Wang",
+          "Jiaman Li",
+          "Sirui Chen",
+          "Takara E. Truong",
+          "Pei Xu"
+        ],
+        "published": "2026-06-29T17:59:55Z",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.GR",
+          "eess.SY"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30642v1",
+      "source": "arxiv",
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "url": "https://arxiv.org/abs/2606.30642v1",
+      "description": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details, whereas dual-track prediction improves acoustics but requires longer sequences and weakens global planning. We present LeVo 2, a hybrid LLM-Diffusion framework for controllable full-len",
+      "summary": "基于分层表示建模和渐进式后训练实现稳定悦耳的全长歌曲生成，协调人声与伴奏",
+      "extra": {
+        "authors": [
+          "Shun Lei",
+          "Huaicheng Zhang",
+          "Dapeng Wu",
+          "Yaoxun Xu",
+          "Lishi Zuo"
+        ],
+        "published": "2026-06-29T17:59:20Z",
+        "categories": [
+          "cs.SD",
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30639v1",
+      "source": "arxiv",
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "url": "https://arxiv.org/abs/2606.30639v1",
+      "description": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits",
+      "summary": "提出WorldEvolver自进化世界模型，通过自我改进预测能力增强LLM智能体长期规划",
+      "extra": {
+        "authors": [
+          "Xuan Zhang",
+          "Wenxuan Zhang",
+          "See-Kiong Ng",
+          "Yang Deng"
+        ],
+        "published": "2026-06-29T17:58:43Z",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30638v1",
+      "source": "arxiv",
+      "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
+      "url": "https://arxiv.org/abs/2606.30638v1",
+      "description": "3D Gaussian Splatting (3DGS) has emerged at the forefront of 3D scene reconstruction. Extending 3DGS with language-driven, open-vocabulary understanding has gained significant attention for real-world applications such as embodied AI. Recent methods achieve this by learning an instance feature attribute and assigning semantics by distilling high-dimensional Contrastive Language-Image Pretraining (CLIP) features directly into the scene representation. However, the instance grouping mechanisms of ",
+      "summary": "利用2D检测器实现3D高斯场景的开放词汇和指代分割，支持语言驱动的三维理解",
+      "extra": {
+        "authors": [
+          "Jameel Hassan",
+          "Yasiru Ranasinghe",
+          "Vishal Patel"
+        ],
+        "published": "2026-06-29T17:58:41Z",
+        "categories": [
+          "cs.CV"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30634v1",
+      "source": "arxiv",
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "url": "https://arxiv.org/abs/2606.30634v1",
+      "description": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. Howe",
+      "summary": "证明单步梯度延迟不阻碍大规模异步流水线并行LLM预训练，消除气泡提升吞吐量",
+      "extra": {
+        "authors": [
+          "Philip Zmushko",
+          "Egor Petrov",
+          "Nursultan Abdullaev",
+          "Mikhail Khrushchev",
+          "Samuel Horváth"
+        ],
+        "published": "2026-06-29T17:57:50Z",
+        "categories": [
+          "cs.LG"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30632v1",
+      "source": "arxiv",
+      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+      "url": "https://arxiv.org/abs/2606.30632v1",
+      "description": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchic",
+      "summary": "提出GROW²框架实现机器人工具使用的开放世界功能定位，选择并操作非常规工具",
+      "extra": {
+        "authors": [
+          "Yuhong Deng",
+          "Yuyao Liu",
+          "David Hsu"
+        ],
+        "published": "2026-06-29T17:56:53Z",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.CV"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30627v1",
+      "source": "arxiv",
+      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.30627v1",
+      "description": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical l",
+      "summary": "揭示保守离线训练在在线适应中会放大奖励黑客行为，挑战其作为安全基础的观点",
+      "extra": {
+        "authors": [
+          "Subramanyam Sahoo",
+          "Aman Chadha",
+          "Vinija Jain",
+          "Divya Chaudhary"
+        ],
+        "published": "2026-06-29T17:56:03Z",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "stat.ML"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30626v1",
+      "source": "arxiv",
+      "title": "DOPD: Dual On-policy Distillation",
+      "url": "https://arxiv.org/abs/2606.30626v1",
+      "description": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that studen",
+      "summary": "提出双在线策略蒸馏DOPD，通过注入特权信息提升知识蒸馏的性能上限",
+      "extra": {
+        "authors": [
+          "Xinlei Yu",
+          "Gen Li",
+          "Qingyi Si",
+          "Guibin Zhang",
+          "Yuqi Xu"
+        ],
+        "published": "2026-06-29T17:55:53Z",
+        "categories": [
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30625v1",
+      "source": "arxiv",
+      "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+      "url": "https://arxiv.org/abs/2606.30625v1",
+      "description": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite this, these \"discarded\" norms seem to correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. In this work, we provide a formal theoretical framework explaining this phenomenon. By analyzing the optimization dynamics",
+      "summary": "发现对比学习嵌入范数隐含语义特异性，由优化动力学决定而非损失函数设计",
+      "extra": {
+        "authors": [
+          "Ziwei Su",
+          "Junyu Ren",
+          "Victor Veitch"
+        ],
+        "published": "2026-06-29T17:55:40Z",
+        "categories": [
+          "stat.ML",
+          "cs.AI",
+          "cs.LG",
+          "math.OC"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "arxiv-2606.30616v1",
+      "source": "arxiv",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "url": "https://arxiv.org/abs/2606.30616v1",
+      "description": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspectives: scaling long-horizon trajectories and scaling heterogeneous agent abilities. To support this goal, we build a long-horizon knowledge-action infrastructure that connects external knowledge, actions, observations, and verifier outcomes, producing agentic trajectories with an average length of 45K t",
+      "summary": "提出35B混合专家智能体模型Agents-A1，通过扩展智能体视野而非参数达到万亿参数性能",
+      "extra": {
+        "authors": [
+          "Lei Bai",
+          "Zongsheng Cao",
+          "Yang Chen",
+          "Zhiyao Cui",
+          "Shangheng Du"
+        ],
+        "published": "2026-06-29T17:50:54Z",
+        "categories": [
+          "cs.CL"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:24.131608"
+    },
+    {
+      "id": "github-1281315781",
+      "source": "github",
+      "title": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "summary": "DeepSpec：用于训练和评估投机解码算法的全栈代码库，提升大模型推理效率。",
+      "extra": {
+        "stars": 4825,
+        "language": "Python",
+        "forks": 396,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1277578741",
+      "source": "github",
+      "title": "bozhouDev/codex-orange-book",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "summary": "Codex 橙皮书：从安装到实战的全链路非官方开源指南，含可下载PDF，帮助快速上手Codex。",
+      "extra": {
+        "stars": 2421,
+        "language": "HTML",
+        "forks": 243,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1278830624",
+      "source": "github",
+      "title": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "summary": "wloc：修改Apple网络定位返回坐标的工具，支持Surge等代理软件，一键设置恢复定位。",
+      "extra": {
+        "stars": 1798,
+        "language": "JavaScript",
+        "forks": 248,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1282768734",
+      "source": "github",
+      "title": "Krishnagangwal/CS-Fundamentals",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "summary": "CS-Fundamentals：精选计算机基础面试准备资料，涵盖DSA、网络、数据库、操作系统、系统设计等。",
+      "extra": {
+        "stars": 1102,
+        "language": "Unknown",
+        "forks": 85,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1280278993",
+      "source": "github",
+      "title": "baairon/torlink",
+      "url": "https://github.com/baairon/torlink",
+      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+      "summary": "torlink：终端中零配置的种子搜索与下载工具，界面简洁，无需额外设置。",
+      "extra": {
+        "stars": 1075,
+        "language": "TypeScript",
+        "forks": 61,
+        "topics": [
+          "downloader",
+          "magnet-links",
+          "p2p",
+          "torrent",
+          "torrent-client",
+          "zero-configuration"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1280019559",
+      "source": "github",
+      "title": "winsznx/theeleven",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "summary": "theeleven：11个自主AI代理在X Layer上开设足球赛事市场，基于Uniswap v4和免Gas USDT0质押。",
+      "extra": {
+        "stars": 716,
+        "language": "TypeScript",
+        "forks": 2,
+        "topics": [
+          "ai-agents",
+          "defi",
+          "eip-3009",
+          "erc-8257",
+          "football",
+          "foundry",
+          "gasless",
+          "mcp",
+          "nextjs",
+          "okx",
+          "prediction-markets",
+          "solidity",
+          "uniswap-hooks",
+          "uniswap-v4",
+          "usdt0",
+          "web3",
+          "x-layer"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1282902275",
+      "source": "github",
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "",
+      "summary": "Codex-5.5-codex-instruct-5.5：Codex指令微调模型版本5.5，专注于代码生成与理解任务。",
+      "extra": {
+        "stars": 678,
+        "language": "Python",
+        "forks": 215,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1278930806",
+      "source": "github",
+      "title": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "summary": "awesome-evals：精选AI代理构建与评估资源库，包含论文、博客、工具和基准测试。",
+      "extra": {
+        "stars": 596,
+        "language": "Unknown",
+        "forks": 41,
+        "topics": [
+          "agent-evaluation",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "benchmarks",
+          "evals",
+          "llm",
+          "llm-evaluation",
+          "rl-environments"
+        ]
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1279161472",
+      "source": "github",
+      "title": "AlexandrosGounis/pdfx",
+      "url": "https://github.com/AlexandrosGounis/pdfx",
+      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "summary": "pdfx：扩展传统PDF标准，通过元数据将多个文件存储为单个PDF文件。",
+      "extra": {
+        "stars": 586,
+        "language": "TypeScript",
+        "forks": 69,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    },
+    {
+      "id": "github-1280984042",
+      "source": "github",
+      "title": "Pluviobyte/video-production-skills",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "summary": "video-production-skills：可复用的AI视频制作技能库，涵盖创作、重制、动态设计和质量检查。",
+      "extra": {
+        "stars": 476,
+        "language": "Python",
+        "forks": 58,
+        "topics": []
+      },
+      "fetched_at": "2026-06-30T13:16:19.818836"
+    }
+  ]
 }
