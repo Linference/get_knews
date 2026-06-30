@@ -1,0 +1,98 @@
+# ============================================================
+# Tech Digest — GitHub Actions 全自动工作流
+# 每日定时抓取 + DeepSeek 摘要 + 部署到 GitHub Pages
+# ============================================================
+name: "📡 Daily Tech Digest"
+
+on:
+  schedule:
+    # 每天 UTC 1:00 (北京时间 9:00) 自动运行
+    - cron: "0 1 * * *"
+  # 也支持手动触发
+  workflow_dispatch:
+  # 推送到 main 时触发
+  push:
+    branches: [main]
+
+# 确保同一时间只有一个实例在跑
+concurrency:
+  group: tech-digest
+  cancel-in-progress: true
+
+jobs:
+  crawl-and-summarize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 允许推送 data/feed.json 回仓库
+
+    steps:
+      - name: ⬇️ Checkout 代码
+        uses: actions/checkout@v4
+
+      - name: 🐍 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 📦 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 📡 运行爬虫 + DeepSeek 摘要
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
+          EMAIL_SMTP_PORT: ${{ secrets.EMAIL_SMTP_PORT }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        run: python main.py once-no-email
+
+      - name: 📋 复制 feed.json 到 docs/ (供 Pages 访问)
+        run: |
+          mkdir -p docs/data
+          cp data/feed.json docs/data/feed.json
+
+      - name: 📤 提交变更到仓库
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add data/feed.json docs/data/feed.json
+          if git diff --staged --quiet; then
+            echo "✅ 无变化，跳过提交"
+          else
+            git commit -m "📡 [bot] 更新每日科技摘要 — $(date -u +'%Y-%m-%d')"
+            git push origin main
+            echo "✅ 已推送"
+          fi
+
+  deploy-pages:
+    needs: crawl-and-summarize
+    if: always() && needs.crawl-and-summarize.result == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: ⬇️ Checkout (含最新数据)
+        uses: actions/checkout@v4
+
+      - name: 📦 构建 Pages 站点
+        run: |
+          mkdir -p _site
+          cp -r docs/* _site/
+
+      - name: ⬆️ 上传 Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: 🚀 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

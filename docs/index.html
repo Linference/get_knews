@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📡 Tech Digest — 科技速递</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <h1>📡 Tech Digest</h1>
+    <p class="subtitle">多源科技资讯 · DeepSeek AI 中文智能摘要</p>
+    <p class="update-time" id="update-time">加载中...</p>
+  </div>
+</header>
+
+<main class="container">
+  <!-- 筛选栏 -->
+  <nav class="filter-bar" id="filter-bar">
+    <button class="filter-btn active" data-source="all">全部</button>
+    <button class="filter-btn" data-source="github">🐙 GitHub</button>
+    <button class="filter-btn" data-source="arxiv">📄 arXiv</button>
+    <button class="filter-btn" data-source="hackernews">🔥 HN</button>
+    <button class="filter-btn" data-source="reddit">🤖 Reddit</button>
+    <button class="filter-btn" data-source="zhihu">💬 知乎</button>
+  </nav>
+
+  <!-- 统计 -->
+  <div class="stats" id="stats"></div>
+
+  <!-- 卡片列表 -->
+  <div class="feed-list" id="feed-list">
+    <div class="loading">⏳ 加载数据中...</div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>Powered by <strong>DeepSeek API</strong> · 自动抓取 GitHub / Hacker News / arXiv / Reddit · 
+    <a href="https://github.com" target="_blank">GitHub 开源</a></p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
