@@ -48,17 +48,14 @@ jobs:
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
         run: python main.py once
 
-      - name: 📋 复制 feed.json 到 docs/ (供 Pages 访问)
-        run: |
-          mkdir -p docs/data
-          cp data/feed.json docs/data/feed.json
-
-      - name: 📤 提交变更到仓库
+      - name: 📤 提交 feed.json 到仓库
         if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
+          mkdir -p docs/data
+          cp data/feed.json docs/data/feed.json
           git add data/feed.json docs/data/feed.json
           if git diff --staged --quiet; then
             echo "✅ 无变化，跳过提交"
