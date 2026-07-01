@@ -1,370 +1,369 @@
 {
-  "updated_at": "2026-06-30T13:24:12.590798",
+  "updated_at": "2026-07-01T05:15:58.087426",
   "total": 30,
   "items": [
     {
-      "id": "hn-48730608",
+      "id": "hn-48736605",
       "source": "hackernews",
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "description": "",
-      "summary": "美国大使利用比利时警察阻止我们的报道，涉及外交与新闻自由的冲突。",
+      "summary": "Claude Sonnet 5 发布，获得高评分和大量讨论，是新一代AI模型。",
       "extra": {
-        "score": 264,
-        "by": "robtherobber",
-        "descendants": 85
+        "score": 996,
+        "by": "marinesebastian",
+        "descendants": 563
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48730729",
+      "id": "hn-48734373",
       "source": "hackernews",
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "description": "",
-      "summary": "欧洲数字身份证依赖谷歌和苹果的安全服务，引发对技术垄断和隐私控制的担忧。",
+      "summary": "Claude Code 在请求中隐写标记，用于追踪和识别AI生成内容。",
       "extra": {
-        "score": 361,
-        "by": "donohoe",
-        "descendants": 153
+        "score": 1608,
+        "by": "kirushik",
+        "descendants": 460
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48730818",
+      "id": "hn-48742176",
       "source": "hackernews",
-      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "title": "Firms that adopt AI grow headcount 10% over the two years following adoption",
+      "url": "https://ramp.com/data/ai-jobs-impact",
       "description": "",
-      "summary": "在类型不严格的语言中实现“解析而非验证”模式，提升代码安全性。",
+      "summary": "采用AI的企业在两年内员工数增长10%，表明AI促进而非取代就业。",
       "extra": {
-        "score": 53,
-        "by": "fagnerbrack",
-        "descendants": 33
+        "score": 8,
+        "by": "nreece",
+        "descendants": 1
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48704289",
+      "id": "hn-48740698",
       "source": "hackernews",
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
       "description": "",
-      "summary": "从零开始无硬件经验自制八旋翼无人机，展示开源硬件与DIY学习的可行性。",
+      "summary": "Google Copybara 工具用于跨代码仓库迁移代码，支持高效同步和转换。",
       "extra": {
-        "score": 121,
-        "by": "noleary",
-        "descendants": 34
+        "score": 128,
+        "by": "reconnecting",
+        "descendants": 18
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48683098",
+      "id": "hn-48740771",
       "source": "hackernews",
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "description": "",
-      "summary": "开源低技术项目，倡导简单、可持续的技术方案，对抗过度复杂化。",
+      "summary": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制，允许更广泛使用。",
       "extra": {
-        "score": 381,
-        "by": "grep_it",
-        "descendants": 81
+        "score": 466,
+        "by": "Pragmata",
+        "descendants": 226
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48730904",
+      "id": "hn-48741359",
       "source": "hackernews",
-      "title": "Sony erases digital content from libraries",
-      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
       "description": "",
-      "summary": "索尼从用户数字库中删除已购内容，引发对数字所有权和消费者权益的讨论。",
+      "summary": "Forestiere Underground Gardens 是地下花园建筑，展示独特的地下空间利用。",
       "extra": {
-        "score": 166,
-        "by": "pseudolus",
-        "descendants": 57
+        "score": 44,
+        "by": "onemoresoop",
+        "descendants": 7
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48730694",
+      "id": "hn-48735770",
       "source": "hackernews",
-      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
       "description": "",
-      "summary": "2025年研究显示运动强度影响健康老年人身体成分，为运动处方提供依据。",
+      "summary": "Claude Science 是面向科学研究的AI工具，支持数据分析和实验设计。",
       "extra": {
-        "score": 76,
-        "by": "bookofjoe",
-        "descendants": 64
+        "score": 414,
+        "by": "lebovic",
+        "descendants": 129
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48721903",
+      "id": "hn-48735444",
       "source": "hackernews",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
       "description": "",
-      "summary": "Qwen 3.6 27B模型在本地开发中达到性能与资源消耗的最佳平衡点，适合部署。",
+      "summary": "Nano Banana 2 Lite 是轻量级微型设备，适用于嵌入式或低功耗场景。",
       "extra": {
-        "score": 1002,
-        "by": "stared",
-        "descendants": 651
+        "score": 334,
+        "by": "minimaxir",
+        "descendants": 137
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48731989",
+      "id": "hn-48712289",
       "source": "hackernews",
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
-      "url": "https://www.gutenberg.org/ebooks/24518",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
       "description": "",
-      "summary": "《非同寻常的大众幻想与群体疯狂》回忆录，探讨历史上集体非理性行为。",
+      "summary": "图解分析回力车工作原理，通过机械结构展示其储能和释放机制。",
       "extra": {
-        "score": 5,
-        "by": "lstodd",
-        "descendants": 0
+        "score": 144,
+        "by": "Muhammad523",
+        "descendants": 29
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "hn-48724230",
+      "id": "hn-48738938",
       "source": "hackernews",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
       "description": "",
-      "summary": ".self顶级域名专为自托管设计，旨在增强个人对网络身份和数据的控制。",
+      "summary": "Leanstral 1.5 是精益生产或优化工具的新版本，提升效率和资源利用率。",
       "extra": {
-        "score": 559,
-        "by": "HumanCCF",
-        "descendants": 326
+        "score": 141,
+        "by": "vetronauta",
+        "descendants": 37
       },
-      "fetched_at": "2026-06-30T13:24:12.426575"
+      "fetched_at": "2026-07-01T05:15:57.924246"
     },
     {
-      "id": "arxiv-2606.30645v1",
+      "id": "arxiv-2606.32040v1",
       "source": "arxiv",
-      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
-      "url": "https://arxiv.org/abs/2606.30645v1",
-      "description": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes. Our pipeline leverages 3D Gaussian Splatting to r",
-      "summary": "通过合成交互数据在重建场景中学习人形机器人全身操作，连接自我中心视觉与任务指令",
+      "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
+      "url": "https://arxiv.org/abs/2606.32040v1",
+      "description": "Low-resolution face recognition (LR-FR) remains a challenging task due to poor feature extraction and aggregation, as probe images often contain limited identity information resulting from extreme degradations such as blur, occlusion, and low contrast. Additionally, the domain gap between high-resolution (HR) gallery images and low-resolution (LR) probe images poses a significant challenge. A single feature encoder struggles to generalize effectively across both domains when fine-tuned on an LR ",
+      "summary": "FaceMoE: 提出混合专家模型，通过动态路由和专家网络解决低分辨率人脸识别中特征提取差和域差距问题，提升识别鲁棒性。",
       "extra": {
         "authors": [
-          "Yen-Jen Wang",
-          "Jiaman Li",
-          "Sirui Chen",
-          "Takara E. Truong",
-          "Pei Xu"
+          "Kartik Narayan",
+          "Vishal M. Patel"
         ],
-        "published": "2026-06-29T17:59:55Z",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.GR",
-          "eess.SY"
-        ]
-      },
-      "fetched_at": "2026-06-30T13:24:06.663835"
-    },
-    {
-      "id": "arxiv-2606.30642v1",
-      "source": "arxiv",
-      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
-      "url": "https://arxiv.org/abs/2606.30642v1",
-      "description": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details, whereas dual-track prediction improves acoustics but requires longer sequences and weakens global planning. We present LeVo 2, a hybrid LLM-Diffusion framework for controllable full-len",
-      "summary": "基于分层表示建模和渐进式后训练实现稳定悦耳的全长歌曲生成，协调人声与伴奏",
-      "extra": {
-        "authors": [
-          "Shun Lei",
-          "Huaicheng Zhang",
-          "Dapeng Wu",
-          "Yaoxun Xu",
-          "Lishi Zuo"
-        ],
-        "published": "2026-06-29T17:59:20Z",
-        "categories": [
-          "cs.SD",
-          "cs.AI"
-        ]
-      },
-      "fetched_at": "2026-06-30T13:24:06.663835"
-    },
-    {
-      "id": "arxiv-2606.30639v1",
-      "source": "arxiv",
-      "title": "Self-Evolving World Models for LLM Agent Planning",
-      "url": "https://arxiv.org/abs/2606.30639v1",
-      "description": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits",
-      "summary": "提出WorldEvolver自进化世界模型，让LLM智能体通过预测行动后果实现长程规划",
-      "extra": {
-        "authors": [
-          "Xuan Zhang",
-          "Wenxuan Zhang",
-          "See-Kiong Ng",
-          "Yang Deng"
-        ],
-        "published": "2026-06-29T17:58:43Z",
-        "categories": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      "fetched_at": "2026-06-30T13:24:06.663835"
-    },
-    {
-      "id": "arxiv-2606.30638v1",
-      "source": "arxiv",
-      "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
-      "url": "https://arxiv.org/abs/2606.30638v1",
-      "description": "3D Gaussian Splatting (3DGS) has emerged at the forefront of 3D scene reconstruction. Extending 3DGS with language-driven, open-vocabulary understanding has gained significant attention for real-world applications such as embodied AI. Recent methods achieve this by learning an instance feature attribute and assigning semantics by distilling high-dimensional Contrastive Language-Image Pretraining (CLIP) features directly into the scene representation. However, the instance grouping mechanisms of ",
-      "summary": "利用2D检测器为3D高斯泼溅场景赋予开放词汇和指代分割能力，支持语言驱动的3D理解",
-      "extra": {
-        "authors": [
-          "Jameel Hassan",
-          "Yasiru Ranasinghe",
-          "Vishal Patel"
-        ],
-        "published": "2026-06-29T17:58:41Z",
+        "published": "2026-06-30T17:59:57Z",
         "categories": [
           "cs.CV"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:06.663835"
+      "fetched_at": "2026-07-01T05:15:52.762960"
     },
     {
-      "id": "arxiv-2606.30634v1",
+      "id": "arxiv-2606.32039v1",
       "source": "arxiv",
-      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
-      "url": "https://arxiv.org/abs/2606.30634v1",
-      "description": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. Howe",
-      "summary": "证明一步梯度延迟不是大规模异步流水线并行LLM预训练的障碍，消除气泡提升吞吐",
+      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+      "url": "https://arxiv.org/abs/2606.32039v1",
+      "description": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous latents. This decoupling leaves the tokenizer unaware of what the generator finds easy to model. We present GEAR (Guided End-to-end AutoRegression), which trains a vector-quantized (VQ) tokenizer and an autoregressive (AR) generator jointly and end-to-end, guided by representation alignment. The key",
+      "summary": "GEAR: 提出引导式端到端自回归框架，让生成器与分词器协同训练，解决传统两阶段训练中分词器忽略生成器建模难度的问题，提升图像生成质量。",
       "extra": {
         "authors": [
-          "Philip Zmushko",
-          "Egor Petrov",
-          "Nursultan Abdullaev",
-          "Mikhail Khrushchev",
-          "Samuel Horváth"
+          "Bin Lin",
+          "Zheyuan Liu",
+          "Chenguo Lin",
+          "Sixiang Chen",
+          "Yunyang Ge"
         ],
-        "published": "2026-06-29T17:57:50Z",
+        "published": "2026-06-30T17:59:57Z",
         "categories": [
+          "cs.CV"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:52.762960"
+    },
+    {
+      "id": "arxiv-2606.32038v1",
+      "source": "arxiv",
+      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+      "url": "https://arxiv.org/abs/2606.32038v1",
+      "description": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different familie",
+      "summary": "Introspective Coupling: 通过自解释训练跟踪语言模型行为变化，利用反事实输入分析模型是否真正内省，而非表面模仿，评估解释的忠实性。",
+      "extra": {
+        "authors": [
+          "Zifan Carl Guo",
+          "Laura Ruis",
+          "Jacob Andreas",
+          "Belinda Z. Li"
+        ],
+        "published": "2026-06-30T17:59:32Z",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
           "cs.LG"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:06.663835"
+      "fetched_at": "2026-07-01T05:15:52.762960"
     },
     {
-      "id": "arxiv-2606.30632v1",
+      "id": "arxiv-2606.32036v1",
       "source": "arxiv",
-      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
-      "url": "https://arxiv.org/abs/2606.30632v1",
-      "description": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchic",
-      "summary": "提出GROW²框架，让机器人通过开放世界可供性定位实现创造性工具使用，选择并操作物体",
+      "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
+      "url": "https://arxiv.org/abs/2606.32036v1",
+      "description": "Producing 3D human representations from input views on the fly is essential for immersive live streaming systems, where representation compactness is as critical as high fidelity given limited computational power and transmission bandwidth. Although recent feed-forward reconstruction methods achieve impressive quality through the view-centric prediction of 3D representations, they repeatedly encode the same subject content across multiple views, leading to significant inter-view redundancy. Our ",
+      "summary": "PointSplat: 提出基于人体中心预测的紧凑3D高斯泼溅方法，从输入视图实时生成紧凑高保真3D人体表示，适用于带宽受限的沉浸式直播系统。",
       "extra": {
         "authors": [
-          "Yuhong Deng",
-          "Yuyao Liu",
-          "David Hsu"
+          "Yujie Guo",
+          "Yudong Jin",
+          "Lingteng Qiu",
+          "Zehong Shen",
+          "Zhen Xu"
         ],
-        "published": "2026-06-29T17:56:53Z",
+        "published": "2026-06-30T17:59:05Z",
         "categories": [
-          "cs.RO",
-          "cs.AI",
           "cs.CV"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:06.663835"
+      "fetched_at": "2026-07-01T05:15:52.762960"
     },
     {
-      "id": "arxiv-2606.30627v1",
+      "id": "arxiv-2606.32034v1",
       "source": "arxiv",
-      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.30627v1",
-      "description": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical l",
-      "summary": "揭示保守离线训练在在线适应中反而放大奖励黑客行为，挑战了安全微调的传统直觉",
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.32034v1",
+      "description": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities. However, it is common practice to evaluate them by measuring the downstream perfo",
+      "summary": "QVal: 提出低成本评估密集监督信号的方法，为长周期LLM智能体提供中间动作反馈，解决稀疏奖励无法指导中间步骤的问题，提升训练效率。",
       "extra": {
         "authors": [
-          "Subramanyam Sahoo",
-          "Aman Chadha",
-          "Vinija Jain",
-          "Divya Chaudhary"
+          "Sergio Hernández-Gutiérrez",
+          "Matteo Merler",
+          "Ilze Amanda Auzina",
+          "Joschka Strüber",
+          "Ameya Prabhu"
         ],
-        "published": "2026-06-29T17:56:03Z",
+        "published": "2026-06-30T17:58:23Z",
         "categories": [
           "cs.LG",
           "cs.AI",
-          "stat.ML"
-        ]
-      },
-      "fetched_at": "2026-06-30T13:24:06.663835"
-    },
-    {
-      "id": "arxiv-2606.30626v1",
-      "source": "arxiv",
-      "title": "DOPD: Dual On-policy Distillation",
-      "url": "https://arxiv.org/abs/2606.30626v1",
-      "description": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that studen",
-      "summary": "提出双在线策略蒸馏DOPD，通过注入特权信息提升学生模型轨迹监督质量",
-      "extra": {
-        "authors": [
-          "Xinlei Yu",
-          "Gen Li",
-          "Qingyi Si",
-          "Guibin Zhang",
-          "Yuqi Xu"
-        ],
-        "published": "2026-06-29T17:55:53Z",
-        "categories": [
-          "cs.AI"
-        ]
-      },
-      "fetched_at": "2026-06-30T13:24:06.663835"
-    },
-    {
-      "id": "arxiv-2606.30625v1",
-      "source": "arxiv",
-      "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
-      "url": "https://arxiv.org/abs/2606.30625v1",
-      "description": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite this, these \"discarded\" norms seem to correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. In this work, we provide a formal theoretical framework explaining this phenomenon. By analyzing the optimization dynamics",
-      "summary": "发现对比学习嵌入范数隐含语义特异性，优化动力学在丢弃的范数中编码了语义信息",
-      "extra": {
-        "authors": [
-          "Ziwei Su",
-          "Junyu Ren",
-          "Victor Veitch"
-        ],
-        "published": "2026-06-29T17:55:40Z",
-        "categories": [
-          "stat.ML",
-          "cs.AI",
-          "cs.LG",
-          "math.OC"
-        ]
-      },
-      "fetched_at": "2026-06-30T13:24:06.663835"
-    },
-    {
-      "id": "arxiv-2606.30616v1",
-      "source": "arxiv",
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://arxiv.org/abs/2606.30616v1",
-      "description": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspectives: scaling long-horizon trajectories and scaling heterogeneous agent abilities. To support this goal, we build a long-horizon knowledge-action infrastructure that connects external knowledge, actions, observations, and verifier outcomes, producing agentic trajectories with an average length of 45K t",
-      "summary": "通过扩展智能体视野而非参数规模，35B混合专家模型达到万亿参数级别性能",
-      "extra": {
-        "authors": [
-          "Lei Bai",
-          "Zongsheng Cao",
-          "Yang Chen",
-          "Zhiyao Cui",
-          "Shangheng Du"
-        ],
-        "published": "2026-06-29T17:50:54Z",
-        "categories": [
           "cs.CL"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:06.663835"
+      "fetched_at": "2026-07-01T05:15:52.762960"
+    },
+    {
+      "id": "arxiv-2606.32033v1",
+      "source": "arxiv",
+      "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
+      "url": "https://arxiv.org/abs/2606.32033v1",
+      "description": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Existing methods either rely on costly fine-tuning on scarce panoramic data that limits generalization, or leverage multi-step optimization that incurs prohibitive inference latency. We observe that contemporary generative models natively exhibit some panoramic priors from large-scale training. However",
+      "summary": "SpheRoPE: 提出零样本、无需训练和优化的360度全景生成框架，通过向预训练扩散Transformer注入球形先验，直接生成全景图像和视频，避免微调开销。",
+      "extra": {
+        "authors": [
+          "Or Hirschorn",
+          "Aaron Olender",
+          "Eli Alshan",
+          "Ianir Ideses",
+          "Lior Fritz"
+        ],
+        "published": "2026-06-30T17:57:04Z",
+        "categories": [
+          "cs.CV"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:52.762960"
+    },
+    {
+      "id": "arxiv-2606.32032v1",
+      "source": "arxiv",
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "https://arxiv.org/abs/2606.32032v1",
+      "description": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capab",
+      "summary": "Reinforcement Learning with Metacognitive Feedback: 利用元认知反馈的强化学习，训练LLM表达忠实的不确定性，解决高置信度幻觉和知识边界模糊问题。",
+      "extra": {
+        "authors": [
+          "Gabrielle Kaili-May Liu",
+          "Avi Caciularu",
+          "Gal Yona",
+          "Idan Szpektor",
+          "Arman Cohan"
+        ],
+        "published": "2026-06-30T17:56:01Z",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:52.762960"
+    },
+    {
+      "id": "arxiv-2606.32029v1",
+      "source": "arxiv",
+      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "url": "https://arxiv.org/abs/2606.32029v1",
+      "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table structure. Beyond final-answer accuracy, DREs directly compromise the correctness and reliability of intermediate reasoning steps. Yet prior studies have only offered limited, small-scale analyses. In this work, we present the first systematic evaluation of tabular data referencing errors across differen",
+      "summary": "When LLMs Read Tables Carelessly: 测量并减少LLM在表格任务中的数据引用错误，通过针对性训练提升模型正确引用和避免遗漏表格数值的可靠性。",
+      "extra": {
+        "authors": [
+          "Yuqing Yang",
+          "Qi Zhu",
+          "Zhen Han",
+          "Boran Han",
+          "Zhengyuan Shen"
+        ],
+        "published": "2026-06-30T17:54:50Z",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:52.762960"
+    },
+    {
+      "id": "arxiv-2606.32027v1",
+      "source": "arxiv",
+      "title": "Freeform Preference Learning for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2606.32027v1",
+      "description": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary preferences collapse many competing notions of quality into one ambiguous signal. We introduce Freeform Preference Learning (FPL), a method for learning robot policies from freeform human preferences. Rather than asking annotators which of two trajectories is better overall, FPL lets them define natural-",
+      "summary": "Freeform Preference Learning for Robotic Manipulation: 提出自由形式偏好学习，用自然语言反馈替代二元偏好，为长周期机器人操作任务提供更丰富的奖励信号，提升策略改进效率。",
+      "extra": {
+        "authors": [
+          "Marcel Torne",
+          "Anubha Mahajan",
+          "Abhijnya Bhat",
+          "Chelsea Finn"
+        ],
+        "published": "2026-06-30T17:54:02Z",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:52.762960"
+    },
+    {
+      "id": "arxiv-2606.32026v1",
+      "source": "arxiv",
+      "title": "AdaJEPA: An Adaptive Latent World Model",
+      "url": "https://arxiv.org/abs/2606.32026v1",
+      "description": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their predictions become inaccurate, planning can fail, especially under test-time distribution shift. To address this, we propose AdaJEPA, an adaptive latent world model that performs test-time adaptation within the closed loop of model predictive control (MPC). After training, AdaJEPA plans and executes ",
+      "summary": "AdaJEPA: 提出自适应潜在世界模型，在测试时动态调整模型参数以应对分布偏移，解决传统冻结模型预测不准确导致的规划失败问题。",
+      "extra": {
+        "authors": [
+          "Ying Wang",
+          "Oumayma Bounou",
+          "Yann LeCun",
+          "Mengye Ren"
+        ],
+        "published": "2026-06-30T17:53:48Z",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:52.762960"
     },
     {
       "id": "github-1281315781",
@@ -372,29 +371,14 @@
       "title": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "summary": "DeepSpec：全栈训练与评估推测解码算法的代码库，提升大模型推理效率",
+      "summary": "DeepSpec：用于训练和评估推测解码算法的全栈代码库，提升大模型推理效率。",
       "extra": {
-        "stars": 4834,
+        "stars": 5423,
         "language": "Python",
-        "forks": 397,
+        "forks": 432,
         "topics": []
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
-    },
-    {
-      "id": "github-1277578741",
-      "source": "github",
-      "title": "bozhouDev/codex-orange-book",
-      "url": "https://github.com/bozhouDev/codex-orange-book",
-      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "summary": "Codex 橙皮书：从安装到实战的全链路非官方开源指南，含可下载PDF",
-      "extra": {
-        "stars": 2421,
-        "language": "HTML",
-        "forks": 243,
-        "topics": []
-      },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
     },
     {
       "id": "github-1278830624",
@@ -402,29 +386,14 @@
       "title": "Yu9191/wloc",
       "url": "https://github.com/Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "summary": "wloc：修改Apple网络定位返回坐标，支持Surge等代理工具，一键设置恢复",
+      "summary": "wloc：修改Apple网络定位返回坐标，支持Surge等代理工具，一键设置/恢复定位。",
       "extra": {
-        "stars": 1799,
+        "stars": 2036,
         "language": "JavaScript",
-        "forks": 248,
+        "forks": 275,
         "topics": []
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
-    },
-    {
-      "id": "github-1282768734",
-      "source": "github",
-      "title": "Krishnagangwal/CS-Fundamentals",
-      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "summary": "CS-Fundamentals：精选计算机基础面试复习资料，涵盖DSA、网络、数据库等核心科目",
-      "extra": {
-        "stars": 1109,
-        "language": "Unknown",
-        "forks": 86,
-        "topics": []
-      },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
     },
     {
       "id": "github-1280278993",
@@ -432,11 +401,11 @@
       "title": "baairon/torlink",
       "url": "https://github.com/baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-      "summary": "torlink：终端内零配置的种子搜索与下载工具，界面简洁高效",
+      "summary": "torlink：零配置的终端种子搜索与下载工具，界面简洁高效。",
       "extra": {
-        "stars": 1086,
+        "stars": 1818,
         "language": "TypeScript",
-        "forks": 62,
+        "forks": 116,
         "topics": [
           "downloader",
           "magnet-links",
@@ -446,7 +415,37 @@
           "zero-configuration"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
+    },
+    {
+      "id": "github-1282768734",
+      "source": "github",
+      "title": "Krishnagangwal/CS-Fundamentals",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "summary": "CS-Fundamentals：精选计算机基础面试准备资源，涵盖DSA、网络、数据库、操作系统等。",
+      "extra": {
+        "stars": 1242,
+        "language": "Unknown",
+        "forks": 99,
+        "topics": []
+      },
+      "fetched_at": "2026-07-01T05:15:46.051893"
+    },
+    {
+      "id": "github-1282902275",
+      "source": "github",
+      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "description": "",
+      "summary": "Codex-5.5-codex-instruct-5.5：基于Codex的指令微调模型，增强代码生成与理解能力。",
+      "extra": {
+        "stars": 875,
+        "language": "Python",
+        "forks": 273,
+        "topics": []
+      },
+      "fetched_at": "2026-07-01T05:15:46.051893"
     },
     {
       "id": "github-1280019559",
@@ -454,9 +453,9 @@
       "title": "winsznx/theeleven",
       "url": "https://github.com/winsznx/theeleven",
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "summary": "theeleven：11个自主AI代理在X Layer上运营足球赛事市场，基于Uniswap v4和免Gas质押",
+      "summary": "theeleven：11个自主AI代理在X Layer上运行实时足球博彩市场，结合Uniswap v4和免Gas质押。",
       "extra": {
-        "stars": 716,
+        "stars": 692,
         "language": "TypeScript",
         "forks": 2,
         "topics": [
@@ -479,22 +478,56 @@
           "x-layer"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
     },
     {
-      "id": "github-1282902275",
+      "id": "github-1284538699",
       "source": "github",
-      "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "description": "",
-      "summary": "Codex-5.5-codex-instruct-5.5：代码生成模型Codex的指令微调版本，提升代码理解与生成能力",
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "summary": "Fundamental-Ava：构建自主、协作、社交智能的数字人类代理系统。",
       "extra": {
-        "stars": 679,
+        "stars": 633,
         "language": "Python",
-        "forks": 215,
-        "topics": []
+        "forks": 58,
+        "topics": [
+          "ai",
+          "ai-agents"
+        ]
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
+    },
+    {
+      "id": "github-1279161472",
+      "source": "github",
+      "title": "AlexandrosGounis/pdfx",
+      "url": "https://github.com/AlexandrosGounis/pdfx",
+      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "summary": "pdfx：扩展PDF标准，通过元数据将多个文件存储于单个PDF文件中。",
+      "extra": {
+        "stars": 614,
+        "language": "TypeScript",
+        "forks": 74,
+        "topics": [
+          "electron",
+          "electron-app",
+          "electronjs",
+          "liquid-glass",
+          "macos-app",
+          "open-source",
+          "pdf",
+          "pdf-generator",
+          "pdf-parser",
+          "pdf-processing",
+          "pdf-tools",
+          "pdf-viewer",
+          "react",
+          "spec",
+          "typescript"
+        ]
+      },
+      "fetched_at": "2026-07-01T05:15:46.051893"
     },
     {
       "id": "github-1278930806",
@@ -502,11 +535,11 @@
       "title": "benchflow-ai/awesome-evals",
       "url": "https://github.com/benchflow-ai/awesome-evals",
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "summary": "awesome-evals：精选AI代理构建与评估资源库，包含论文、博客、工具和基准测试",
+      "summary": "awesome-evals：精选AI代理构建与评估资源库，包含论文、工具、基准测试等。",
       "extra": {
-        "stars": 597,
+        "stars": 608,
         "language": "Unknown",
-        "forks": 41,
+        "forks": 42,
         "topics": [
           "agent-evaluation",
           "ai-agents",
@@ -519,22 +552,7 @@
           "rl-environments"
         ]
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
-    },
-    {
-      "id": "github-1279161472",
-      "source": "github",
-      "title": "AlexandrosGounis/pdfx",
-      "url": "https://github.com/AlexandrosGounis/pdfx",
-      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
-      "summary": "pdfx：扩展传统PDF标准，通过元数据将多个文件存储为单个文件",
-      "extra": {
-        "stars": 586,
-        "language": "TypeScript",
-        "forks": 69,
-        "topics": []
-      },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
     },
     {
       "id": "github-1280984042",
@@ -542,14 +560,14 @@
       "title": "Pluviobyte/video-production-skills",
       "url": "https://github.com/Pluviobyte/video-production-skills",
       "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "summary": "video-production-skills：可复用的AI视频制作技能库，支持创作、重构、动效和质检",
+      "summary": "video-production-skills：可复用的AI视频制作技能库，支持创作、动态设计、开场和质检。",
       "extra": {
-        "stars": 477,
+        "stars": 486,
         "language": "Python",
-        "forks": 58,
+        "forks": 59,
         "topics": []
       },
-      "fetched_at": "2026-06-30T13:24:02.169293"
+      "fetched_at": "2026-07-01T05:15:46.051893"
     }
   ]
 }
