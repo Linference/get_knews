@@ -1,369 +1,373 @@
 {
-  "updated_at": "2026-07-01T05:15:58.087426",
+  "updated_at": "2026-07-02T04:53:33.052036",
   "total": 30,
   "items": [
     {
-      "id": "hn-48736605",
+      "id": "hn-48753715",
       "source": "hackernews",
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
       "description": "",
-      "summary": "Claude Sonnet 5 发布，获得高评分和大量讨论，是新一代AI模型。",
+      "summary": "ZCode为GLM-5.2提供测试框架，核心是自动化评估和调优大模型性能，值得关注因其提升模型部署可靠性。",
       "extra": {
-        "score": 996,
-        "by": "marinesebastian",
-        "descendants": 563
+        "score": 303,
+        "by": "chvid",
+        "descendants": 243
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48734373",
+      "id": "hn-48755928",
       "source": "hackernews",
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
       "description": "",
-      "summary": "Claude Code 在请求中隐写标记，用于追踪和识别AI生成内容。",
+      "summary": "Senior SWE-Bench是开源基准测试，模拟高级工程师场景评估AI代理，创新在于复杂任务设计，推动AI工程能力评估。",
       "extra": {
-        "score": 1608,
-        "by": "kirushik",
-        "descendants": 460
+        "score": 33,
+        "by": "matt_d",
+        "descendants": 14
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48742176",
+      "id": "hn-48755005",
       "source": "hackernews",
-      "title": "Firms that adopt AI grow headcount 10% over the two years following adoption",
-      "url": "https://ramp.com/data/ai-jobs-impact",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
       "description": "",
-      "summary": "采用AI的企业在两年内员工数增长10%，表明AI促进而非取代就业。",
+      "summary": "Oomwoo是开源DIY机器人吸尘器，用户可自行组装，核心技术是模块化硬件和开源固件，适合创客和智能家居爱好者。",
       "extra": {
-        "score": 8,
-        "by": "nreece",
-        "descendants": 1
+        "score": 110,
+        "by": "devicelimit",
+        "descendants": 14
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48740698",
+      "id": "hn-48747304",
       "source": "hackernews",
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "description": "",
-      "summary": "Google Copybara 工具用于跨代码仓库迁移代码，支持高效同步和转换。",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "description": "<a href=\"https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.science.org&#x2F;content&#x2F;article&#x2F;lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https:&#x2F;&#x2F;www.science.org&#x2F;content&#x2F;article&#x2F;lab-created-spudcell...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive&#x2F;2026&#x2F;07&#x2F;01&#x2F;",
+      "summary": "首次实现从头构建的细胞生长分裂，名为SpudCell，创新在合成生物学方法，标志着人工生命研究重大突破。",
       "extra": {
-        "score": 128,
-        "by": "reconnecting",
-        "descendants": 18
+        "score": 787,
+        "by": "defrost",
+        "descendants": 261
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48740771",
+      "id": "hn-48754963",
       "source": "hackernews",
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
       "description": "",
-      "summary": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制，允许更广泛使用。",
+      "summary": "全球综述确认mRNA疫苗安全有效且前景广阔，基于大规模数据验证，为未来疫苗开发提供坚实证据。",
       "extra": {
-        "score": 466,
-        "by": "Pragmata",
-        "descendants": 226
+        "score": 245,
+        "by": "coloneltcb",
+        "descendants": 202
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48741359",
+      "id": "hn-48755731",
       "source": "hackernews",
-      "title": "Forestiere Underground Gardens",
-      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
       "description": "",
-      "summary": "Forestiere Underground Gardens 是地下花园建筑，展示独特的地下空间利用。",
+      "summary": "呼吁回归简单论坛形式，反对现代社交平台复杂性，强调社区互动和内容质量，值得关注其反主流设计理念。",
       "extra": {
-        "score": 44,
-        "by": "onemoresoop",
-        "descendants": 7
+        "score": 85,
+        "by": "pentagrama",
+        "descendants": 55
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48735770",
+      "id": "hn-48750710",
       "source": "hackernews",
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
       "description": "",
-      "summary": "Claude Science 是面向科学研究的AI工具，支持数据分析和实验设计。",
+      "summary": "图形程序员学习指南，涵盖渲染、着色器、数学等核心技能，提供系统路径，适合入门和进阶开发者。",
       "extra": {
-        "score": 414,
-        "by": "lebovic",
-        "descendants": 129
+        "score": 271,
+        "by": "atan2",
+        "descendants": 149
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48735444",
+      "id": "hn-48745456",
       "source": "hackernews",
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
       "description": "",
-      "summary": "Nano Banana 2 Lite 是轻量级微型设备，适用于嵌入式或低功耗场景。",
+      "summary": "PlayStation新游戏光盘生产将于2028年1月停止，标志数字发行趋势，影响游戏收藏和实体市场。",
       "extra": {
-        "score": 334,
-        "by": "minimaxir",
-        "descendants": 137
+        "score": 654,
+        "by": "Tiberium",
+        "descendants": 669
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48712289",
+      "id": "hn-48753979",
       "source": "hackernews",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "url": "https://mechanical-pencil.com/products/car",
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
       "description": "",
-      "summary": "图解分析回力车工作原理，通过机械结构展示其储能和释放机制。",
+      "summary": "开放零知识证明技术用于年龄验证，保护隐私同时确保合规，创新在密码学应用，值得关注数据安全领域。",
       "extra": {
-        "score": 144,
-        "by": "Muhammad523",
-        "descendants": 29
+        "score": 89,
+        "by": "consumer451",
+        "descendants": 67
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "hn-48738938",
+      "id": "hn-48747116",
       "source": "hackernews",
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
       "description": "",
-      "summary": "Leanstral 1.5 是精益生产或优化工具的新版本，提升效率和资源利用率。",
+      "summary": "FFmpeg 9.1新AAC编码器提升音频压缩效率和质量，采用先进算法，适合音视频处理优化。",
       "extra": {
-        "score": 141,
-        "by": "vetronauta",
-        "descendants": 37
+        "score": 321,
+        "by": "ledoge",
+        "descendants": 102
       },
-      "fetched_at": "2026-07-01T05:15:57.924246"
+      "fetched_at": "2026-07-02T04:53:32.782184"
     },
     {
-      "id": "arxiv-2606.32040v1",
+      "id": "arxiv-2607.01233v1",
       "source": "arxiv",
-      "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
-      "url": "https://arxiv.org/abs/2606.32040v1",
-      "description": "Low-resolution face recognition (LR-FR) remains a challenging task due to poor feature extraction and aggregation, as probe images often contain limited identity information resulting from extreme degradations such as blur, occlusion, and low contrast. Additionally, the domain gap between high-resolution (HR) gallery images and low-resolution (LR) probe images poses a significant challenge. A single feature encoder struggles to generalize effectively across both domains when fine-tuned on an LR ",
-      "summary": "FaceMoE: 提出混合专家模型，通过动态路由和专家网络解决低分辨率人脸识别中特征提取差和域差距问题，提升识别鲁棒性。",
+      "title": "Measuring the Gap Between Human and LLM Research Ideas",
+      "url": "https://arxiv.org/abs/2607.01233v1",
+      "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that likely inspired its core idea. LLMs are then prompted",
+      "summary": "衡量人类与LLM研究想法之间的差距，构建大规模评估框架来量化差异",
       "extra": {
         "authors": [
-          "Kartik Narayan",
-          "Vishal M. Patel"
+          "Ziyu Chen",
+          "Yilun Zhao",
+          "Arman Cohan"
         ],
-        "published": "2026-06-30T17:59:57Z",
-        "categories": [
-          "cs.CV"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32039v1",
-      "source": "arxiv",
-      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
-      "url": "https://arxiv.org/abs/2606.32039v1",
-      "description": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous latents. This decoupling leaves the tokenizer unaware of what the generator finds easy to model. We present GEAR (Guided End-to-end AutoRegression), which trains a vector-quantized (VQ) tokenizer and an autoregressive (AR) generator jointly and end-to-end, guided by representation alignment. The key",
-      "summary": "GEAR: 提出引导式端到端自回归框架，让生成器与分词器协同训练，解决传统两阶段训练中分词器忽略生成器建模难度的问题，提升图像生成质量。",
-      "extra": {
-        "authors": [
-          "Bin Lin",
-          "Zheyuan Liu",
-          "Chenguo Lin",
-          "Sixiang Chen",
-          "Yunyang Ge"
-        ],
-        "published": "2026-06-30T17:59:57Z",
-        "categories": [
-          "cs.CV"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32038v1",
-      "source": "arxiv",
-      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-      "url": "https://arxiv.org/abs/2606.32038v1",
-      "description": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different familie",
-      "summary": "Introspective Coupling: 通过自解释训练跟踪语言模型行为变化，利用反事实输入分析模型是否真正内省，而非表面模仿，评估解释的忠实性。",
-      "extra": {
-        "authors": [
-          "Zifan Carl Guo",
-          "Laura Ruis",
-          "Jacob Andreas",
-          "Belinda Z. Li"
-        ],
-        "published": "2026-06-30T17:59:32Z",
+        "published": "2026-07-01T17:59:56Z",
         "categories": [
           "cs.CL",
-          "cs.AI",
-          "cs.LG"
+          "cs.AI"
         ]
       },
-      "fetched_at": "2026-07-01T05:15:52.762960"
+      "fetched_at": "2026-07-02T04:53:26.710201"
     },
     {
-      "id": "arxiv-2606.32036v1",
+      "id": "arxiv-2607.01232v1",
       "source": "arxiv",
-      "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
-      "url": "https://arxiv.org/abs/2606.32036v1",
-      "description": "Producing 3D human representations from input views on the fly is essential for immersive live streaming systems, where representation compactness is as critical as high fidelity given limited computational power and transmission bandwidth. Although recent feed-forward reconstruction methods achieve impressive quality through the view-centric prediction of 3D representations, they repeatedly encode the same subject content across multiple views, leading to significant inter-view redundancy. Our ",
-      "summary": "PointSplat: 提出基于人体中心预测的紧凑3D高斯泼溅方法，从输入视图实时生成紧凑高保真3D人体表示，适用于带宽受限的沉浸式直播系统。",
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "url": "https://arxiv.org/abs/2607.01232v1",
+      "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every layer contributes similarly to the gains obtained during RL post-training. In this work, we challenge this assumption through a systematic layer-wise study of RL training. Surprisingly, we find that trai",
+      "summary": "仅训练单层Transformer即可匹配全参数强化学习的效果，揭示RL适应在层间的分布特性",
       "extra": {
         "authors": [
-          "Yujie Guo",
-          "Yudong Jin",
-          "Lingteng Qiu",
-          "Zehong Shen",
-          "Zhen Xu"
+          "Zijian Zhang",
+          "Rizhen Hu",
+          "Athanasios Glentis",
+          "Dawei Li",
+          "Chung-Yiu Yau"
         ],
-        "published": "2026-06-30T17:59:05Z",
-        "categories": [
-          "cs.CV"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32034v1",
-      "source": "arxiv",
-      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-      "url": "https://arxiv.org/abs/2606.32034v1",
-      "description": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities. However, it is common practice to evaluate them by measuring the downstream perfo",
-      "summary": "QVal: 提出低成本评估密集监督信号的方法，为长周期LLM智能体提供中间动作反馈，解决稀疏奖励无法指导中间步骤的问题，提升训练效率。",
-      "extra": {
-        "authors": [
-          "Sergio Hernández-Gutiérrez",
-          "Matteo Merler",
-          "Ilze Amanda Auzina",
-          "Joschka Strüber",
-          "Ameya Prabhu"
-        ],
-        "published": "2026-06-30T17:58:23Z",
+        "published": "2026-07-01T17:59:54Z",
         "categories": [
           "cs.LG",
-          "cs.AI",
           "cs.CL"
         ]
       },
-      "fetched_at": "2026-07-01T05:15:52.762960"
+      "fetched_at": "2026-07-02T04:53:26.710201"
     },
     {
-      "id": "arxiv-2606.32033v1",
+      "id": "arxiv-2607.01225v1",
       "source": "arxiv",
-      "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
-      "url": "https://arxiv.org/abs/2606.32033v1",
-      "description": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Existing methods either rely on costly fine-tuning on scarce panoramic data that limits generalization, or leverage multi-step optimization that incurs prohibitive inference latency. We observe that contemporary generative models natively exhibit some panoramic priors from large-scale training. However",
-      "summary": "SpheRoPE: 提出零样本、无需训练和优化的360度全景生成框架，通过向预训练扩散Transformer注入球形先验，直接生成全景图像和视频，避免微调开销。",
+      "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+      "url": "https://arxiv.org/abs/2607.01225v1",
+      "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about task progress, failure modes, or corrective actions. We propose a language-critique framework for imitation learning from suboptimal demonstrations that instead leverages natural language as a structure",
+      "summary": "通过语言批评从次优演示中进行模仿学习，用显式推理信号替代标量监督",
       "extra": {
         "authors": [
-          "Or Hirschorn",
-          "Aaron Olender",
-          "Eli Alshan",
-          "Ianir Ideses",
-          "Lior Fritz"
+          "Chih-Han Yang",
+          "Dai-Jie Wu",
+          "Yun-Ping Huang",
+          "Ping-Chun Hsieh",
+          "Kenneth Marino"
         ],
-        "published": "2026-06-30T17:57:04Z",
-        "categories": [
-          "cs.CV"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32032v1",
-      "source": "arxiv",
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "url": "https://arxiv.org/abs/2606.32032v1",
-      "description": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capab",
-      "summary": "Reinforcement Learning with Metacognitive Feedback: 利用元认知反馈的强化学习，训练LLM表达忠实的不确定性，解决高置信度幻觉和知识边界模糊问题。",
-      "extra": {
-        "authors": [
-          "Gabrielle Kaili-May Liu",
-          "Avi Caciularu",
-          "Gal Yona",
-          "Idan Szpektor",
-          "Arman Cohan"
-        ],
-        "published": "2026-06-30T17:56:01Z",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32029v1",
-      "source": "arxiv",
-      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-      "url": "https://arxiv.org/abs/2606.32029v1",
-      "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table structure. Beyond final-answer accuracy, DREs directly compromise the correctness and reliability of intermediate reasoning steps. Yet prior studies have only offered limited, small-scale analyses. In this work, we present the first systematic evaluation of tabular data referencing errors across differen",
-      "summary": "When LLMs Read Tables Carelessly: 测量并减少LLM在表格任务中的数据引用错误，通过针对性训练提升模型正确引用和避免遗漏表格数值的可靠性。",
-      "extra": {
-        "authors": [
-          "Yuqing Yang",
-          "Qi Zhu",
-          "Zhen Han",
-          "Boran Han",
-          "Zhengyuan Shen"
-        ],
-        "published": "2026-06-30T17:54:50Z",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32027v1",
-      "source": "arxiv",
-      "title": "Freeform Preference Learning for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2606.32027v1",
-      "description": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary preferences collapse many competing notions of quality into one ambiguous signal. We introduce Freeform Preference Learning (FPL), a method for learning robot policies from freeform human preferences. Rather than asking annotators which of two trajectories is better overall, FPL lets them define natural-",
-      "summary": "Freeform Preference Learning for Robotic Manipulation: 提出自由形式偏好学习，用自然语言反馈替代二元偏好，为长周期机器人操作任务提供更丰富的奖励信号，提升策略改进效率。",
-      "extra": {
-        "authors": [
-          "Marcel Torne",
-          "Anubha Mahajan",
-          "Abhijnya Bhat",
-          "Chelsea Finn"
-        ],
-        "published": "2026-06-30T17:54:02Z",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:52.762960"
-    },
-    {
-      "id": "arxiv-2606.32026v1",
-      "source": "arxiv",
-      "title": "AdaJEPA: An Adaptive Latent World Model",
-      "url": "https://arxiv.org/abs/2606.32026v1",
-      "description": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their predictions become inaccurate, planning can fail, especially under test-time distribution shift. To address this, we propose AdaJEPA, an adaptive latent world model that performs test-time adaptation within the closed loop of model predictive control (MPC). After training, AdaJEPA plans and executes ",
-      "summary": "AdaJEPA: 提出自适应潜在世界模型，在测试时动态调整模型参数以应对分布偏移，解决传统冻结模型预测不准确导致的规划失败问题。",
-      "extra": {
-        "authors": [
-          "Ying Wang",
-          "Oumayma Bounou",
-          "Yann LeCun",
-          "Mengye Ren"
-        ],
-        "published": "2026-06-30T17:53:48Z",
+        "published": "2026-07-01T17:57:22Z",
         "categories": [
           "cs.LG",
           "cs.AI"
         ]
       },
-      "fetched_at": "2026-07-01T05:15:52.762960"
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01224v1",
+      "source": "arxiv",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://arxiv.org/abs/2607.01224v1",
+      "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class memory actions alongside task actions, letting the model itself decide how to manage its memory. This memory skill improves along two axes: the structure that supports it (prompts, file schemas, action ",
+      "summary": "将记忆管理作为可训练技能，通过文件系统操作实现LLM的元记忆能力",
+      "extra": {
+        "authors": [
+          "Shengguang Wu",
+          "Hao Zhu",
+          "Yuhui Zhang",
+          "Xiaohan Wang",
+          "Serena Yeung-Levy"
+        ],
+        "published": "2026-07-01T17:57:03Z",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.MA"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01223v1",
+      "source": "arxiv",
+      "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "url": "https://arxiv.org/abs/2607.01223v1",
+      "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to the same coherence issues as any LLM. We present Theoria, a verification architecture that closes this gap. A candidate solution is rewritten into a sequence of typed state transitions, each licensed by an explicit justification, whether that be a",
+      "summary": "提出重写可接受性验证框架，在非正式推理状态下实现可审计的AI可信度判断",
+      "extra": {
+        "authors": [
+          "Ben Slivinski",
+          "Michael Saldivar"
+        ],
+        "published": "2026-07-01T17:56:42Z",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG",
+          "cs.LO",
+          "cs.SE"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01222v1",
+      "source": "arxiv",
+      "title": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
+      "url": "https://arxiv.org/abs/2607.01222v1",
+      "description": "Recent 3D generative models can synthesize high-quality geometry but often struggle to reproduce intricate textures from reference images, largely due to the scarcity of large-scale 3D training data with rich surface appearance. In contrast, visual generative models are trained on datasets several orders of magnitude larger and excel at modeling complex visual patterns. Motivated by this gap, we introduce Ink3D, a framework that bridges 3D generation with large-scale video generative models to s",
+      "summary": "利用视频生成模型从参考图像中合成具有复杂纹理的3D资产，解决训练数据稀缺问题",
+      "extra": {
+        "authors": [
+          "Yue Han",
+          "Chong Li",
+          "Zhening Liu",
+          "Cong Huang",
+          "Fang Deng"
+        ],
+        "published": "2026-07-01T17:56:39Z",
+        "categories": [
+          "cs.CV"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01218v1",
+      "source": "arxiv",
+      "title": "The State-Prediction Separation Hypothesis",
+      "url": "https://arxiv.org/abs/2607.01218v1",
+      "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}: disentangling the two roles yields better language modeling performance. We design a Transformer variant that uses two computation streams to separate the two functions, and conduct pretraining experiments across various scales. Our experiments show that state-prediction separation consistently off",
+      "summary": "提出状态-预测分离假说，通过解耦Transformer的两种角色提升语言建模性能",
+      "extra": {
+        "authors": [
+          "Giovanni Monea",
+          "Nathan Godey",
+          "Kianté Brantley",
+          "Yoav Artzi"
+        ],
+        "published": "2026-07-01T17:55:09Z",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01213v1",
+      "source": "arxiv",
+      "title": "RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue",
+      "url": "https://arxiv.org/abs/2607.01213v1",
+      "description": "Open-source libraries and tools are widely reused, but compatibility maintenance is expensive. Once maintainers leave, useful repositories can stop working as runtimes and dependencies evolve. We study whether LLM agents can adapt old repositories to modern environments, a task we call compatibility rescue. Unlike bug repair, compatibility rescue starts from a repository that worked in its original environment but fails after ecosystem drift. RepoRescue gives agents only the repository and its f",
+      "summary": "研究LLM代理对旧仓库进行全仓库兼容性修复的能力，应对依赖演化问题",
+      "extra": {
+        "authors": [
+          "Zhihao Lin",
+          "Mingyi Zhou",
+          "Zhensu Sun",
+          "Yizhuo Yang",
+          "Renyu Yang"
+        ],
+        "published": "2026-07-01T17:51:28Z",
+        "categories": [
+          "cs.SE"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01212v1",
+      "source": "arxiv",
+      "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2607.01212v1",
+      "description": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembly using Vision-Language-Action models (VLAs). We formalize the task, develop a scalable simulation pipeline for expert data generation and evaluation, and build a VR teleoperation system for single-operator bimanual control to collect high-quality real-world demonstrations. To address extreme long-h",
+      "summary": "提出FurnitureVLA，首个使用视觉-语言-动作模型实现真实尺寸双臂家具组装的工作",
+      "extra": {
+        "authors": [
+          "Chenyang Ma",
+          "Yue Yang",
+          "Radu Corcodel",
+          "Siddarth Jain",
+          "Andrew Wu"
+        ],
+        "published": "2026-07-01T17:51:21Z",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
+    },
+    {
+      "id": "arxiv-2607.01211v1",
+      "source": "arxiv",
+      "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "url": "https://arxiv.org/abs/2607.01211v1",
+      "description": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized baselines and official reference patches. Their leaderboard scores are increasingly used as evidence of coding-agent progress, but those scores can conflate runtime instability, benchmark-specific scoring rules, and how many tasks are already solved by at least one public submission. We audit these i",
+      "summary": "质疑性能优化基准对编码代理评估的可靠性，揭示基准设计中的潜在偏差",
+      "extra": {
+        "authors": [
+          "Zhi Chen",
+          "Zhensu Sun",
+          "Yuling Shi",
+          "David Lo",
+          "Lingxiao Jiang"
+        ],
+        "published": "2026-07-01T17:50:48Z",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:26.710201"
     },
     {
       "id": "github-1281315781",
@@ -371,29 +375,14 @@
       "title": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "summary": "DeepSpec：用于训练和评估推测解码算法的全栈代码库，提升大模型推理效率。",
+      "summary": "DeepSpec：用于训练和评估投机解码算法的全栈代码库，提升大模型推理效率。",
       "extra": {
-        "stars": 5423,
+        "stars": 5782,
         "language": "Python",
-        "forks": 432,
+        "forks": 467,
         "topics": []
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
-    },
-    {
-      "id": "github-1278830624",
-      "source": "github",
-      "title": "Yu9191/wloc",
-      "url": "https://github.com/Yu9191/wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "summary": "wloc：修改Apple网络定位返回坐标，支持Surge等代理工具，一键设置/恢复定位。",
-      "extra": {
-        "stars": 2036,
-        "language": "JavaScript",
-        "forks": 275,
-        "topics": []
-      },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
       "id": "github-1280278993",
@@ -401,11 +390,11 @@
       "title": "baairon/torlink",
       "url": "https://github.com/baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-      "summary": "torlink：零配置的终端种子搜索与下载工具，界面简洁高效。",
+      "summary": "torlink：终端内零配置的种子搜索与下载工具，简洁高效，无需额外设置。",
       "extra": {
-        "stars": 1818,
+        "stars": 2343,
         "language": "TypeScript",
-        "forks": 116,
+        "forks": 154,
         "topics": [
           "downloader",
           "magnet-links",
@@ -415,7 +404,7 @@
           "zero-configuration"
         ]
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
       "id": "github-1282768734",
@@ -423,14 +412,14 @@
       "title": "Krishnagangwal/CS-Fundamentals",
       "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-      "summary": "CS-Fundamentals：精选计算机基础面试准备资源，涵盖DSA、网络、数据库、操作系统等。",
+      "summary": "CS-Fundamentals：精选计算机基础面试准备资料，涵盖DSA、网络、数据库、操作系统、系统设计等核心科目。",
       "extra": {
-        "stars": 1242,
+        "stars": 1348,
         "language": "Unknown",
-        "forks": 99,
+        "forks": 107,
         "topics": []
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
       "id": "github-1282902275",
@@ -438,47 +427,44 @@
       "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": "",
-      "summary": "Codex-5.5-codex-instruct-5.5：基于Codex的指令微调模型，增强代码生成与理解能力。",
+      "summary": "Codex-5.5-codex-instruct-5.5：基于Codex的指令微调模型，专注于代码生成与理解任务。",
       "extra": {
-        "stars": 875,
+        "stars": 1038,
         "language": "Python",
-        "forks": 273,
+        "forks": 319,
         "topics": []
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
-      "id": "github-1280019559",
+      "id": "github-1284981522",
       "source": "github",
-      "title": "winsznx/theeleven",
-      "url": "https://github.com/winsznx/theeleven",
-      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "summary": "theeleven：11个自主AI代理在X Layer上运行实时足球博彩市场，结合Uniswap v4和免Gas质押。",
+      "title": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "summary": "ios-location-spoofer：无需越狱的独立iOS应用，可伪造GPS位置，支持多种代理模块。",
       "extra": {
-        "stars": 692,
-        "language": "TypeScript",
-        "forks": 2,
-        "topics": [
-          "ai-agents",
-          "defi",
-          "eip-3009",
-          "erc-8257",
-          "football",
-          "foundry",
-          "gasless",
-          "mcp",
-          "nextjs",
-          "okx",
-          "prediction-markets",
-          "solidity",
-          "uniswap-hooks",
-          "uniswap-v4",
-          "usdt0",
-          "web3",
-          "x-layer"
-        ]
+        "stars": 802,
+        "language": "JavaScript",
+        "forks": 111,
+        "topics": []
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
+    },
+    {
+      "id": "github-1283308335",
+      "source": "github",
+      "title": "Kulaxyz/self-learning-skills",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "summary": "self-learning-skills：AI编码代理的自我改进技能，能自动识别并复用会话中的最佳实践为可重用规则。",
+      "extra": {
+        "stars": 771,
+        "language": "Unknown",
+        "forks": 7,
+        "topics": []
+      },
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
       "id": "github-1284538699",
@@ -486,88 +472,83 @@
       "title": "TianhangZhuzth/Fundamental-Ava",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "summary": "Fundamental-Ava：构建自主、协作、社交智能的数字人类代理系统。",
+      "summary": "Fundamental-Ava：构建自主、协作且具社交智能的数字人，实现多智能体协同交互。",
       "extra": {
-        "stars": 633,
+        "stars": 724,
         "language": "Python",
-        "forks": 58,
+        "forks": 69,
         "topics": [
           "ai",
           "ai-agents"
         ]
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
-      "id": "github-1279161472",
+      "id": "github-1280019559",
       "source": "github",
-      "title": "AlexandrosGounis/pdfx",
-      "url": "https://github.com/AlexandrosGounis/pdfx",
-      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
-      "summary": "pdfx：扩展PDF标准，通过元数据将多个文件存储于单个PDF文件中。",
+      "title": "winsznx/bull-rush",
+      "url": "https://github.com/winsznx/bull-rush",
+      "description": "🐂 BULL RUSH — a 3D neon endless runner for The Black Bull ($ANSEM). React Three Fiber game + Hono/Redis API + dynamic X share cards. Play → trybullrush.xyz",
+      "summary": "bull-rush：基于React Three Fiber的3D霓虹风格无尽跑酷游戏，集成Hono/Redis后端与动态分享卡片。",
       "extra": {
-        "stars": 614,
+        "stars": 681,
         "language": "TypeScript",
-        "forks": 74,
+        "forks": 1,
         "topics": [
-          "electron",
-          "electron-app",
-          "electronjs",
-          "liquid-glass",
-          "macos-app",
-          "open-source",
-          "pdf",
-          "pdf-generator",
-          "pdf-parser",
-          "pdf-processing",
-          "pdf-tools",
-          "pdf-viewer",
+          "3d",
+          "crypto",
+          "endless-runner",
+          "game",
+          "hono",
+          "memecoin",
           "react",
-          "spec",
-          "typescript"
+          "react-three-fiber",
+          "redis",
+          "solana",
+          "threejs",
+          "typescript",
+          "vite",
+          "web-game",
+          "webgl"
         ]
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     },
     {
-      "id": "github-1278930806",
+      "id": "github-1282773048",
       "source": "github",
-      "title": "benchflow-ai/awesome-evals",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "summary": "awesome-evals：精选AI代理构建与评估资源库，包含论文、工具、基准测试等。",
+      "title": "aquace/CVE-2026-41940-PoC",
+      "url": "https://github.com/aquace/CVE-2026-41940-PoC",
+      "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+      "summary": "CVE-2026-41940-PoC：CVE-2026-41940认证绕过漏洞的概念验证代码，用于安全研究与测试。",
       "extra": {
-        "stars": 608,
-        "language": "Unknown",
-        "forks": 42,
-        "topics": [
-          "agent-evaluation",
-          "ai-agents",
-          "awesome",
-          "awesome-list",
-          "benchmarks",
-          "evals",
-          "llm",
-          "llm-evaluation",
-          "rl-environments"
-        ]
-      },
-      "fetched_at": "2026-07-01T05:15:46.051893"
-    },
-    {
-      "id": "github-1280984042",
-      "source": "github",
-      "title": "Pluviobyte/video-production-skills",
-      "url": "https://github.com/Pluviobyte/video-production-skills",
-      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "summary": "video-production-skills：可复用的AI视频制作技能库，支持创作、动态设计、开场和质检。",
-      "extra": {
-        "stars": 486,
+        "stars": 571,
         "language": "Python",
-        "forks": 59,
+        "forks": 13,
+        "topics": [
+          "cpanel",
+          "cve",
+          "cve-2026-41940",
+          "cve-2026-41940-poc"
+        ]
+      },
+      "fetched_at": "2026-07-02T04:53:22.688642"
+    },
+    {
+      "id": "github-1280934172",
+      "source": "github",
+      "title": "CopilotKit/OpenTag",
+      "url": "https://github.com/CopilotKit/OpenTag",
+      "description": "OpenTag",
+      "summary": "OpenTag：基于TypeScript的开源标签系统，提供灵活的标签管理与应用功能。",
+      "extra": {
+        "stars": 495,
+        "language": "TypeScript",
+        "forks": 55,
         "topics": []
       },
-      "fetched_at": "2026-07-01T05:15:46.051893"
+      "fetched_at": "2026-07-02T04:53:22.688642"
     }
   ]
 }
